@@ -21,7 +21,7 @@
 ---
 
 <div align="center" style="display: flex; gap: 30px; justify-content: center; flex-wrap: wrap; align-items: stretch;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-k8s&theme=tokyonight"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-k8s&theme=github"  />
 </div>
 
 ---
