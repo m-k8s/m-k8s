@@ -32,7 +32,7 @@
 
 <div>
 
-🔹 **+10 years of experience** in infrastructure and distributed systems  
+🔹 **+15 years of experience** in infrastructure and distributed systems  
 🔹 **Kubernetes specialist** and container orchestration  
 🔹 **CI/CD expert** and Infrastructure as Code  
 🔹 **Open source contributor** and continuous process improvement
